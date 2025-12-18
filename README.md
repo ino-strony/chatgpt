@@ -1,1 +1,1 @@
-Pierwszy plik testowy
+Plik testowy do chatgpt
